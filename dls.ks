@@ -1,4 +1,4 @@
-//A dynamic launching script for RSS.
+//A dynamic launching script for RSS. (I wouldn't use if I were you)
 DECLARE PARAMETER orbAlt.
 CLEARSCREEN.
 
